@@ -13,10 +13,10 @@ This quiz will look at base classes as well as the archetypes in the player's ha
 ### Features
 1. Quiz
 2. Search
-3. I don't know, it wasn't part of my fantasy, but I guess I could include a character sheet that starts the user out with class information.
+3. Exportable and editable character sheet
 ### Technologies
 MySQL, Java, Angular
 ### What I'll Have to Learn
-How to make an api, how to host a database using a free service
+How to make an api, how to host a database using a free service, how to create an element of the page that can be exported as .pdf
 ### Project Tracker
 https://trello.com/b/A19K2fkN/dd-compendium
