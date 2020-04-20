@@ -8,12 +8,14 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+* [Character sheet:](https://trello.com/c/q5T3VcYj/16-character-sheet)
+* [Quiz pages](https://trello.com/c/pzMmOxX6/1-quiz)
+* [Results](https://trello.com/c/2i0dmMtH/24-results-page)
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Trello](https://trello.com/b/A19K2fkN/dd-compendium)
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+[Repo](https://github.com/katiefgh/dd-compendium)
